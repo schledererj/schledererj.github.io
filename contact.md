@@ -2,6 +2,7 @@
 title: /contact
 layout: page
 permalink: /contact
+permalink_name: /contact
 ---
 
 # get in touch

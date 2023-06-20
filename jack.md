@@ -2,6 +2,7 @@
 title: /jack
 layout: page
 permalink: /jack
+permalink_name: /jack
 ---
 
 # More on me

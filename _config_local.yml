@@ -12,7 +12,9 @@ style: dark
 
 # Build settings
 markdown: kramdown
-remote_theme: "itstorque/jekyll-shell-theme"
+theme: jekyll-shell-theme
 
 exclude:
   - local_cache/
+
+host: 0.0.0.0

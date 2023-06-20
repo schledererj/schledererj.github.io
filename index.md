@@ -1,7 +1,8 @@
 ---
-title: /
+title: / (home)
 layout: home
 permalink: /
+permalink_name: /
 ---
 
 # jack schlederer * professional software engineer
