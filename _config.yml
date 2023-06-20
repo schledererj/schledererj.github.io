@@ -1,0 +1,18 @@
+title: 'schledererj.github.io'
+description: "Personal website for Jack Schlederer"
+baseurl: "/"
+url: "https://schledererj.github.io"
+
+header_pages:
+  - index.md
+  - jack.md
+  - contact.md
+
+style: dark
+
+footer: 'signed, with love, jack schlederer'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console # comment this line for local dev
+# theme: jekyll-theme-console # uncomment this line for local dev
