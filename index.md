@@ -6,7 +6,7 @@ permalink: /
 
 # jack schlederer * professional software engineer
 
-Hi! If you've stumbled onto this page, you're probably lost, or something piqued your interest on one of my social media presences. Provided most of my social media posts are about movies or eating lunch, I'm guessing it's the former. In any case, if you feel like reading forward, I'll give you a quick CliffsNotes version, as you most certainly have more important things to do.
+Hi! If you've stumbled onto this page, you're probably lost, or something piqued your interest on one of my social media presences. Provided most of my social media posts are about movies or eating lunch, I'm guessing it's the former. In any case, if you feel like reading forward, I'll do my best to give you a quick CliffsNotes version of an "about me" section, as you most certainly have more important things to do.
 
 ## about me
 * People call me Jack
