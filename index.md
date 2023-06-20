@@ -14,7 +14,7 @@ Hi! If you've stumbled onto this page, you're probably lost, or something piqued
 * 27 years old
 * Based in Milwaukee, WI
 * 8 years and counting in computers and the internet
-* B. Sc. Computer Engineering - MSOE '14
+* B. Sc. Computer Engineering - MSOE '18
 * Working on M. Sc. AI and ML - MSOE
 * Specialist in search technologies
 * Specialist in automation in the public cloud (namely AWS) space
