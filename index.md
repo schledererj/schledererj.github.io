@@ -6,19 +6,14 @@ permalink_name: /
 ---
 
 # jack schlederer * professional software engineer
+Hi! I'm Jack, a professional software and systems engineer based in the midwest USA. I joined [Direct Supply](https://www.directsupply.com) in 2015 as a part-time software engineering intern while still working on my undergraduate program and never left! These days, I'm a staff (level 3) engineer working on some impactful and exciting projects in the spaces of search, AI, and developer productivity. I earned a Bachelors of Science degree in computer engineering from Milwaukee School of Engineering (MSOE) in 2018, and just this spring I graduated with my Masters of Science in machine learning from the same university. Read on for a short digest of my interests and proficiencies.
 
-Hi! If you've stumbled onto this page, you're probably lost, or something piqued your interest on one of my social media presences. Provided most of my social media posts are about movies or eating lunch, I'm guessing it's the former. In any case, if you feel like reading forward, I'll do my best to give you a quick CliffsNotes version of an "about me" section, as you most certainly have more important things to do.
-
-## about me
-* People call me Jack
-* 27 years old
-* Based in Milwaukee, WI
-* 8 years and counting in computers and the internet
-* B. Sc. Computer Engineering - MSOE '18
-* Working on M. Sc. AI and ML - MSOE
-* Specialist in search technologies
-* Specialist in automation in the public cloud (namely AWS) space
-* I'm very happy you made it this far
+## interests & proficiencies
+* information retrieval
+* machine learning
+* software security
+* scalable software systems
+* cloud computing platforms
 
 ## more about me
-If any of the above sounds interesting and you'd like to learn more, please [contact](/contact) me! If you're not quite there yet, and need some more convincing, I invite you over to [my long-form intro](/jack), which is much more rambly, but also more informative!
+If any of the above sounds interesting and you'd like to learn more, feel free to [contact](/contact) me!

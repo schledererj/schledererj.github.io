@@ -5,7 +5,6 @@ url: "https://schledererj.github.io"
 
 header_pages:
   - index.md
-  - jack.md
   - contact.md
 
 style: dark
